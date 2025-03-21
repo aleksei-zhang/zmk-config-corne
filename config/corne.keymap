@@ -38,16 +38,6 @@
             bindings = <&kp ENTER>;
             key-positions = <19 20>;
         };
-
-        tab {
-            bindings = <&kp TAB>;
-            key-positions = <14 16>;
-        };
-
-        backtick {
-            bindings = <&kp GRAVE>;
-            key-positions = <14 16 38>;
-        };
     };
 
     keymap {
