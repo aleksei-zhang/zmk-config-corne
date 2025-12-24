@@ -54,7 +54,7 @@
         layer_3 {
             bindings = <
 &trans  &kp GRAVE     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS     &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans  &trans
-&trans  &kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp EQUAL     &trans  &trans            &none              &none          &trans  &trans
+&trans  &kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp EQUAL     &trans  &trans            &kp F10            &kp F11        &trans  &trans
 &trans  &kp C_PREV    &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp C_NEXT    &trans  &trans            &trans             &trans         &trans  &trans
                                     &trans        &trans        &trans        &trans  &trans            &trans
             >;
